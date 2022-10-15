@@ -15,8 +15,11 @@ This application is a designed main page with minimal functionality. It was buil
 
 ### Photos
 
-- Project Main Page
-<img style="width: 600px; height: 600px" alt="" src="">
+- Project Main Page with Cookies Popup
+<img style="width: 600px; height: 600px" alt="Main Page with Popup" src="./projectImages/mainWithPopup.png">
+
+- Project Main Page without Popup
+<img style="width: 600px; height: 600px" alt="Main Page without Popup" src="./projectImages/mainWithoutPopup.png">
 
 
 ### How to Run Locally
